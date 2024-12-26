@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NoahMorgenstein
-- 👀 I’m interested in learning how to use GitHub!
-- 🌱 I’m currently learning Business Analytics.
+- 👋 Hi, I’m @NoahMorgenstein!
+- 👀 I’m always curious to learn emerging technologies.
+- 🌱 I’m currently solidifying a career in business intelligence.
 - 💞️ I’m looking to collaborate on anything.
 - ⚡ Fun fact: I was a biochemistry undergrad.
 
