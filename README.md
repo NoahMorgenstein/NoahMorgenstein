@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NoahMorgenstein!
-- 👀 I’m always curious to learn emerging technologies.
-- 🌱 I’m currently solidifying a career in business intelligence.
+- 👀 Curious Learner
 - 💞️ I’m looking to collaborate on anything.
 - ⚡ Fun fact: I was a biochemistry undergrad.
 
